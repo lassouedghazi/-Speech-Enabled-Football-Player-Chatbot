@@ -1,4 +1,4 @@
-# Speech-Enabled-Football-Player-Chatbot
+
 # 🎙️ Speech-Enabled Football Player Chatbot by Ghazi Lassoued 🎧
 
 Welcome to the Speech-Enabled Football Player Chatbot! This application allows users to ask questions about Tunisian football players either by typing or speaking. The app then provides responses based on a preloaded dataset of football players, translated into the user's chosen language.
